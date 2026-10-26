@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+**/bin/
+**/obj/
+
+# Local development configuration
+**/appsettings.Development.json
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Test results
+TestResults/
